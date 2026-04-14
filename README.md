@@ -1,2 +1,2 @@
 # Bottle-Volume-Modeling
-A mathematical investigation into determining the volume and surface area of an irregular plastic bottle using piecewise polynomial regression and solids of revolution.
+This project demonstrates the application of calculus and coordinate geometry to measure irregular real-world objects. I modeled a detergent bottle by importing its profile into GeoGebra and applying piecewise polynomial functions to define its boundary.
